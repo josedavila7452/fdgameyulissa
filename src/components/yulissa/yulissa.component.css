@@ -9,19 +9,19 @@
   'pie pie pie pie pie pie';
 }
 .encabezado {
-  grid-area: 1 / 1 / 2 / 6;
+  grid-area: 1 / 1 / 2 / 7;
   text-align: center;
 }
 .juego {
-  grid-area: 2 / 1 / 3 / 6;
+  grid-area: 2 / 1 / 3 / 7;
   text-align: center;
 }
 .info {
-  grid-area: 3 / 1 / 4 / 6;
+  grid-area: 3 / 1 / 4 / 7;
   text-align: center;
 }
 .pie {
-  grid-area: 4 / 1 / 5 / 6;
+  grid-area: 4 / 1 / 5 / 7;
   text-align: center;
   ;
 }
