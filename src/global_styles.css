@@ -3,9 +3,10 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  height: max-content;
-  background-position: center center;
-  background-size: cover;
-  background-image: url("https://firebasestorage.googleapis.com/v0/b/fdgames2023.appspot.com/o/yulissa%2F81576c9da332353e20f2b7f4aab8e204.jpg?alt=media&token=6b6fe0c6-4ffa-44e0-bd0c-f58413e9672a");
+  height:100%;
+
   background-repeat: no-repeat;
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/fdgames2023.appspot.com/o/yulissa%2F81576c9da332353e20f2b7f4aab8e204.jpg?alt=media&token=6b6fe0c6-4ffa-44e0-bd0c-f58413e9672a");
+
+  background-size: cover;
 }
