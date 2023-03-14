@@ -1,4 +1,10 @@
 .fondo {
   display: grid;
-  grid-template-rows: 20%,55%,15%,10%;
+  grid-template-columns: 10%,repeat(4,20%) 10%;
+  grid-template-rows: 18% 60% 12% 10%;
+  grid-template-areas:
+  'encabezado encabezado encabezado encabezado encabezado encabezado'
+  'juego juego juego juego juego juego'
+  'info info info info info info'
+  'pie pie pie pie pie pie';
 }
