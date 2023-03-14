@@ -1,0 +1,4 @@
+.fondo {
+  display: grid;
+  grid-template-rows: 20%,55%,15%,10%;
+}
